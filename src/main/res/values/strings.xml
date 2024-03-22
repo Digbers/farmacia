@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">invitacion</string>
+    <string name="string_invitacion">Hola, quiero invitarte !!!</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="digber">Desarrollado por Digber</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="btn_listar">listar productos</string>
+</resources>
